@@ -1,4 +1,4 @@
-# TUNSA Space Robotics' Project Submissions during NASA International Space Apps 2023
+# TUNSA Space Robotics' Project Submissions during the NASA International Space Apps 2023
 This repository contains 2 projects we submitted during our participation in NASA Space Apps 2023.
 
 **Task Force 1**
